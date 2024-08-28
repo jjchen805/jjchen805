@@ -5,4 +5,3 @@ When I'm free, I like to
 * 🚞 travel and explore the nature
 ### 📬 Connect with Me
 * [Linkedin](https://www.linkedin.com/in/joshua-chen-a10359196/)  
-* [Handshake](https://app.joinhandshake.com/stu/users/25551408)
