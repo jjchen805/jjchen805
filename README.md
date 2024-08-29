@@ -6,3 +6,5 @@ When I'm free, I like to
 * 🚞 travel and explore the nature
 ### 📬 Connect with Me
 * [Linkedin](https://www.linkedin.com/in/joshua-chen-a10359196/)  
+### 🏆 Project
+* [Pandemic S&P 500 performance](https://github.com/jjchen805/pandemic-portfolio-optimization.git)
