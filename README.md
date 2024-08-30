@@ -8,3 +8,6 @@ When I'm free, I like to
 * [Linkedin](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Project
 * [Pandemic S&P 500 Portfolio Optimization](https://github.com/jjchen805/pandemic-portfolio-optimization.git)
+* [Ukraine Russia Conflict Research](https://github.com/jjchen805/Ukraine-Russia-Conflict-Research.git)
+* [MBTI Personality Test](https://github.com/jjchen805/MBTI-Test.git)
+* [Social Network Algorithm](https://github.com/jjchen805/Social-Network-Algorithm.git)
