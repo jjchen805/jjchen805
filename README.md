@@ -11,3 +11,5 @@ When I'm free, I like to
 * [Ukraine Russia Conflict Research](https://github.com/jjchen805/Ukraine-Russia-Conflict-Research.git)
 * [MBTI Personality Test](https://github.com/jjchen805/MBTI-Test.git)
 * [Social Network Algorithm](https://github.com/jjchen805/Social-Network-Algorithm.git)
+* [Credit Card Fraud Detection](https://github.com/jjchen805/credit-card-fraud-detection.git)
+* [Electric Viechle Population](https://github.com/jjchen805/EV-population.git)
