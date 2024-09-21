@@ -5,7 +5,7 @@ When I'm free, I like to
 * 🏀 play basketball and watch the NBA
 * 🚞 travel and explore the nature
 ### 📬 Connect with Me
-* [Linkedin](https://www.linkedin.com/in/joshua-chen-a10359196/)  
+* [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Project
 * [Pandemic S&P 500 Portfolio Optimization](https://github.com/jjchen805/pandemic-portfolio-optimization.git)
 * [Ukraine Russia Conflict Research](https://github.com/jjchen805/Ukraine-Russia-Conflict-Research.git)
