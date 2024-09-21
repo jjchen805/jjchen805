@@ -12,4 +12,4 @@ When I'm free, I like to
 * [MBTI Personality Test](https://github.com/jjchen805/MBTI-Test.git)
 * [Social Network Algorithm](https://github.com/jjchen805/Social-Network-Algorithm.git)
 * [Credit Card Fraud Detection](https://github.com/jjchen805/credit-card-fraud-detection.git)
-* [Electric Vehicle Population](https://github.com/jjchen805/EV-population.git)
+* [Washington Electric Vehicle Research](https://github.com/jjchen805/EV-population.git)
