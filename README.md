@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place documented my journey on Data Science.
+### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place that documented my journey in Data Science.
 #### **Actively looking for a full-time job in _data analytics_ or _business intelligence_.**  
 In August 2024, I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using data-driven approaches to gain valuable business insights and make informative investment decisions.
 When I'm free, I like to  
