@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place that documented my journey in Data Science.
-#### **Actively looking for a full-time job in _data analytics_ or _business intelligence_.**  
-In August 2024, I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using data-driven approaches to gain valuable business insights and make informative investment decisions.
+#### **Actively looking for a summer internship in _data science_ or _machine learning_.**  
+In August 2024, I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using data-driven approaches to gain valuable business insights and make informative investment decisions. Now, I'm pursuing Master of Analytics at UC Berkeley.
 When I'm free, I like to  
 * 🏀 play basketball and watch the NBA
 * 🚞 travel and explore the nature
