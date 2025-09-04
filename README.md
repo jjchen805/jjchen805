@@ -3,7 +3,7 @@
 I'm currently a Master of Analytics student at UC Berkeley, majoring in Industrial Engineering and Operations Research. Last year I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using ML-driven approaches to gain valuable business insights and optimize strategic decision-making. 
 
 ### Resume
-[Joshua Chen - ML](https://drive.google.com/file/d/1CEEEDT0yTXRtI8WJV6YjUdZXea6U0gFN/view?usp=drive_link)
+* [Joshua Chen - ML](https://drive.google.com/file/d/1CEEEDT0yTXRtI8WJV6YjUdZXea6U0gFN/view?usp=drive_link)
 ### 📬 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Projects
