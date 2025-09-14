@@ -16,7 +16,7 @@ I'm currently a Master of Analytics student at UC Berkeley, majoring in Industri
 * [MBTI Personality Test](https://github.com/jjchen805/MBTI-Test.git)
 * [Social Network Algorithm](https://github.com/jjchen805/Social-Network-Algorithm.git)
 ### Design
-* [SratHub: Rebranding Starbucks with GenZ Engagement Promotion Strategy (Figma UI/UX)](https://www.figma.com/design/NUVZ0obseknjzeXvs9H69N/StarHub-Protptype?node-id=0-1&t=bxLbMGLgY36XlpNg-1)
+* [StarHub: Rebranding Starbucks with GenZ Engagement Promotion Strategy (Figma UI/UX)](https://www.figma.com/design/NUVZ0obseknjzeXvs9H69N/StarHub-Protptype?node-id=0-1&t=bxLbMGLgY36XlpNg-1)
 * [RunConnect: Community-Driven Running App (Figma UI/UX)](https://www.figma.com/design/IatopJhackdICnwR4WI1Uj/RunConnect?node-id=0-1&t=VWDrqj6Is61b7UtR-1)
 ### More about me
 When I'm free, I like to  
