@@ -7,7 +7,7 @@ I'm currently a Master of Analytics student at UC Berkeley, majoring in Industri
 ### 📬 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Projects
-#### 2024
+#### 2024~
 * [Pandemic S&P 500 Portfolio Optimization](https://github.com/jjchen805/pandemic-portfolio-optimization.git)
 * [Credit Card Fraud Detection Model](https://github.com/jjchen805/credit-card-fraud-detection.git)
 * [Washington Electric Vehicle Market Insights and Analysis](https://github.com/jjchen805/EV-population.git)
@@ -15,7 +15,9 @@ I'm currently a Master of Analytics student at UC Berkeley, majoring in Industri
 * [Ukraine Russia Conflict Research](https://github.com/jjchen805/Ukraine-Russia-Conflict-Research.git)
 * [MBTI Personality Test](https://github.com/jjchen805/MBTI-Test.git)
 * [Social Network Algorithm](https://github.com/jjchen805/Social-Network-Algorithm.git)
-
+### Design
+* [SratHub: Rebranding Starbucks with GenZ Engagement Promotion Strategy (Figma UI/UX)](https://www.figma.com/design/NUVZ0obseknjzeXvs9H69N/StarHub-Protptype?node-id=0-1&t=bxLbMGLgY36XlpNg-1)
+* [RunConnect: Community-Driven Running App (Figma UI/UX)](https://www.figma.com/design/IatopJhackdICnwR4WI1Uj/RunConnect?node-id=0-1&t=VWDrqj6Is61b7UtR-1)
 ### More about me
 When I'm free, I like to  
 * 🏀 play basketball and watch the NBA
