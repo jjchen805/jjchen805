@@ -8,7 +8,7 @@ I'm currently a Master of Analytics student at UC Berkeley, majoring in Industri
 * [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Projects
 #### 2025~
-* [Volta Analytics - Manufacturing and Sales Pipeline](https://github.com/jjchen805/Volta-Analytics-Manufacturing-Sales-Data-Warehouse-for-EV-Operations)
+* [Volta Analytics - Manufacturing and Sales Data Pipeline](https://github.com/jjchen805/Volta-Analytics-Manufacturing-Sales-Data-Warehouse-for-EV-Operations)
 * [Monte Carlo Supply Chain Risk Model](https://github.com/jjchen805/monte-carlo-supply-chain-risk-model)
 #### 2024
 * [Pandemic S&P 500 Portfolio Optimization](https://github.com/jjchen805/pandemic-portfolio-optimization.git)
