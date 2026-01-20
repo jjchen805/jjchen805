@@ -8,6 +8,7 @@ I'm currently a Master of Analytics student at UC Berkeley, majoring in Industri
 * [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Projects
 #### 2025~
+* [Sustainable Multimodal Supply Chain Network Design](https://github.com/aivandurfee/Sustainable-Supply-Chain-Optimization)
 * [Spotify Song Popularity Prediction](https://github.com/jjchen805/spotify-song-popularity-prediction)
 * [Volta Analytics - Manufacturing and Sales Data Pipeline](https://github.com/jjchen805/Volta-Analytics-Manufacturing-Sales-Data-Warehouse-for-EV-Operations)
 * [Monte Carlo Supply Chain Risk Model](https://github.com/jjchen805/monte-carlo-supply-chain-risk-model)
