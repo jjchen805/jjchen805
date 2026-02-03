@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place that documented my journey in Data Science.
+### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place documenting= my journey in Data Science.
 #### **Actively looking for 2026 summer internship in _data science_ or _machine learning_.**  [Graduating in August 2026]
 I'm currently a Master of Analytics student at UC Berkeley, majoring in Industrial Engineering and Operations Research. Last year I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using ML-driven approaches to gain valuable business insights and optimize strategic decision-making. 
 
