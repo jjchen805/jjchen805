@@ -1,13 +1,15 @@
 ### 👋 Hi, I'm Joshua(Yu-Shou) Chen. This is a place documenting my journey in Data Science.
-#### **Actively looking for 2026 summer internship in _data science_ or _machine learning_.**  [Graduating in August 2026]
+#### **Actively looking for full-time position in _data science_ or _machine learning_.**  [Graduating in August 2026]
 I'm currently a Master of Analytics student at UC Berkeley, majoring in Industrial Engineering and Operations Research. Last year I graduated from University of Washington with a Bachelor's degree in Business Administration, majoring in Finance and Information Systems. Throughout my four years in college, I found my passion for using ML-driven approaches to gain valuable business insights and optimize strategic decision-making. 
 
 ### Resume
-* [Joshua Chen - ML](https://drive.google.com/file/d/1CEEEDT0yTXRtI8WJV6YjUdZXea6U0gFN/view?usp=drive_link)
+* [Joshua Chen - ML](https://drive.google.com/file/d/1CEEEDT0yTXRtI8WJV6YjUdZXea6U0gFN/view?usp=sharing)
 ### 📬 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/joshua-chen-a10359196/)  
 ### 🏆 Projects
-#### 2025~
+#### 2026
+* [Airbnb Intelligent Platform](https://github.com/jjchen805/Airbnb-Investment-Management-Platform.git)
+#### 2025
 * [Sustainable Multimodal Supply Chain Network Design](https://github.com/aivandurfee/Sustainable-Supply-Chain-Optimization)
 * [Spotify Song Popularity Prediction](https://github.com/jjchen805/spotify-song-popularity-prediction)
 * [Volta Analytics - Manufacturing and Sales Data Pipeline](https://github.com/jjchen805/Volta-Analytics-Manufacturing-Sales-Data-Warehouse-for-EV-Operations)
